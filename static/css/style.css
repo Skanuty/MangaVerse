@@ -1,3 +1,5 @@
+@import url("https://use.typekit.net/faq2eoc.css");
+
 body{
     font-family: 'Halcom';
     padding: 0;
@@ -61,6 +63,18 @@ main{
 .projet-manga {
     width: 635px;
     margin-left: 10%;
+}
+
+.nom-manga {
+    margin-bottom: 5%;
+}
+
+.description-manga {
+    margin-bottom: 5%;
+}
+
+#auteur-bottom {
+    margin-bottom: 5%;
 }
 
 #flèche-gauche {
@@ -163,6 +177,22 @@ hr {
 
 #plus {
     margin-left: 2%;
+}
+
+#pub_app {
+    margin-bottom: 5%;
+}
+
+#app-store_right {
+    margin-right: 3%;
+}
+
+.app {
+    margin-bottom: 3%;
+}
+
+.app img {
+    width: 20%;
 }
 
 /*footer*/
